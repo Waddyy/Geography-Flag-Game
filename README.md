@@ -10,3 +10,6 @@ Currently, there aren't nearly enough flag learning/geography resources publicly
 3. Display 30 different flags for the user to guess
 4. Record the points a user has scored, depending on which flags they guessed correct or incorrect
 5. End screen with replay functions
+
+# Structure
+The game is split into 6 modules, the Main, Menu, Difficulty: Easy, Difficulty: Medium, Difficulty: Hard, and the end/replay screen. Below is an image of a rough structure chart.
