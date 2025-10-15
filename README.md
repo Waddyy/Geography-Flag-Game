@@ -13,4 +13,5 @@ Currently, there aren't nearly enough flag learning/geography resources publicly
 
 # Structure
 The game is split into 6 modules, the Main, Menu, Difficulty: Easy, Difficulty: Medium, Difficulty: Hard, and the end/replay screen. Below is an image of a rough structure chart.
+<img width="3024" height="4032" alt="IMG_6260-2" src="https://github.com/user-attachments/assets/2479ade2-47de-4a09-adad-beb17d3d578a" />
 
